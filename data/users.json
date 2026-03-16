@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "department": "NDRF",
+    "officerId": "NDRF-001",
+    "password": "$2b$10$QkNuLJv/BS9GEm965Imzj.t8M5uNpBCYNAY0Ur4JJRNnCLFKNMV7C",
+    "role": "ndrf",
+    "name": "Commander Sharma"
+  },
+  {
+    "id": 2,
+    "department": "Fire Department",
+    "officerId": "FIRE-001",
+    "password": "$2b$10$AIvjd47HPMnjQUnRsUo7Rudcs/kEIQVKERVLLJfmy1Sz89m22TIy2",
+    "role": "fire",
+    "name": "Chief Verma"
+  }
+]
